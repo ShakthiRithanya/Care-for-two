@@ -1,6 +1,6 @@
-# MaatriNet - AI Maternal & Child Health System
+# CARE FOR TWO - AI Maternal & Child Health System
 
-MaatriNet is a sophisticated web application designed to track and predict maternal and child health outcomes using AI. It supports regional health schemes in India by providing proactive risk analysis and coverage tracking.
+CARE FOR TWO is a sophisticated web application designed to track and predict maternal and child health outcomes using AI. It supports regional health schemes in India by providing proactive risk analysis and coverage tracking.
 
 ## 🚀 Vision
 To ensure "No Mother or Child is Left Behind" by using data-driven insights to identify high-risk cases and service gaps early.
@@ -17,7 +17,7 @@ To ensure "No Mother or Child is Left Behind" by using data-driven insights to i
 - `/frontend`: React application with role-based dashboards.
 
 ### 🤖 AI/ML Pipeline
-MaatriNet uses Gradient Boosting classifiers to predict health risks. You must train the models first:
+CARE FOR TWO uses Gradient Boosting classifiers to predict health risks. You must train the models first:
 1. Navigate to `backend/`
 2. Run: `python -m ml.train_models`
    - This generates `/ml/synthetic_maternal_data.csv`
