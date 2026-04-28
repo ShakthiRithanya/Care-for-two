@@ -1,6 +1,6 @@
-# CARE FOR TWO - AI Maternal & Child Health System
+# MATRINET- AI Maternal & Child Health System
 
-CARE FOR TWO is a sophisticated web application designed to track and predict maternal and child health outcomes using AI. It supports regional health schemes in India by providing proactive risk analysis and coverage tracking.
+MATRINET is a sophisticated web application designed to track and predict maternal and child health outcomes using AI. It supports regional health schemes in India by providing proactive risk analysis and coverage tracking.
 
 ## 🚀 Vision
 To ensure "No Mother or Child is Left Behind" by using data-driven insights to identify high-risk cases and service gaps early.
